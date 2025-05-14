@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\GitHub1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADACB14E-5E85-4BBB-A811-70CB9B4DEBC9}|GitHub1\\GitHub1.csproj|d:\\users\\user\\devlopment\\kodecode\\homeworks\\github1\\github1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{ADACB14E-5E85-4BBB-A811-70CB9B4DEBC9}|GitHub1\\GitHub1.csproj|solutionrelative:github1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADACB14E-5E85-4BBB-A811-70CB9B4DEBC9}|GitHub1\\GitHub1.csproj|d:\\users\\user\\devlopment\\kodecode\\homeworks\\github1\\github1\\.gitignore||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADACB14E-5E85-4BBB-A811-70CB9B4DEBC9}|GitHub1\\GitHub1.csproj|solutionrelative:github1\\.gitignore||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADACB14E-5E85-4BBB-A811-70CB9B4DEBC9}|GitHub1\\GitHub1.csproj|d:\\users\\user\\devlopment\\kodecode\\homeworks\\github1\\github1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADACB14E-5E85-4BBB-A811-70CB9B4DEBC9}|GitHub1\\GitHub1.csproj|solutionrelative:github1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\GitHub1\\GitHub1\\.gitignore",
+              "RelativeDocumentMoniker": "GitHub1\\.gitignore",
+              "ToolTip": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\GitHub1\\GitHub1\\.gitignore",
+              "RelativeToolTip": "GitHub1\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-14T08:49:41.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\GitHub1\\GitHub1\\.gitignore",
+              "RelativeDocumentMoniker": "GitHub1\\.gitignore",
+              "ToolTip": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\GitHub1\\GitHub1\\.gitignore",
+              "RelativeToolTip": "GitHub1\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-14T08:49:08.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\GitHub1\\GitHub1\\Program.cs",
+              "RelativeDocumentMoniker": "GitHub1\\Program.cs",
+              "ToolTip": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\GitHub1\\GitHub1\\Program.cs",
+              "RelativeToolTip": "GitHub1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:39:06.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
