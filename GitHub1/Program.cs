@@ -10,8 +10,9 @@ namespace GitHub1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, Chaim");
+            for (int i = 0; i < 3; i++) { 
+            Console.WriteLine(i);
+            }
         }
     }
 }
